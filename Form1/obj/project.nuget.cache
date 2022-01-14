@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V61mUClfrlN76H7K4luvDUqT4U17+clwQ/4pcqVXnPTRAx0MO9v7MqbqHPLx7zP7wDS7+//gMTcIivKnq9S5NQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kevin\\source\\repos\\BTCCalculator\\Form1\\Form1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
